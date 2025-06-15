@@ -1,3 +1,18 @@
+```## 1. mynamespace-chatapp-1.0.0.tar.gz
+What: The packaged collection archive (tarball) ready to install or share.
+
+Contains: All your roles, playbooks, plugins, metadata, documentation, etc. compressed.
+
+Use: Install with ansible-galaxy collection install mynamespace-chatapp-1.0.0.tar.gz.
+
+## 2. galaxy.yml
+What: Metadata file describing your collection.
+
+Contains: Collection name, version, description, author info, dependencies, tags.
+
+Use: Required by Ansible Galaxy or ansible-galaxy commands to identify your collection.
+```
+
 ## Directory structure
 <img width="376" alt="image" src="https://github.com/user-attachments/assets/506e16c7-969f-40d1-9c1e-a18ad95a6829" />
 
