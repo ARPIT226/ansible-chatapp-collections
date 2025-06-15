@@ -1,4 +1,5 @@
-```## 1. mynamespace-chatapp-1.0.0.tar.gz
+```
+## 1. mynamespace-chatapp-1.0.0.tar.gz
 What: The packaged collection archive (tarball) ready to install or share.
 
 Contains: All your roles, playbooks, plugins, metadata, documentation, etc. compressed.
